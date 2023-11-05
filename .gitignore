@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+target/
+lib/
+bin/
+*.DS_Store
+**/.DS_Store
+.DS_Store
+src/test/.DS_Store
+src/test/java/.DS_Store
+.metadata
+.vscode/
+.idea/
+functional-programming-with-java.iml
